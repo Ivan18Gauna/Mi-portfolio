@@ -8,6 +8,8 @@ import ScrollToTop from './components/ScrollToTop/ScrollToTop'
 import Contact from './components/Contact/Contact'
 import Footer from './components/Footer/Footer'
 import './App.css'
+import { Mailer } from './components/Mailer/Mailer'
+
 
 const App = () => {
   const [{ themeName }] = useContext(ThemeContext)
@@ -24,7 +26,9 @@ const App = () => {
       </main>
 
       <ScrollToTop />
+      <Mailer/>
       <Footer />
+
     </div>
   )
 }

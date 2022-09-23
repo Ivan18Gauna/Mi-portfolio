@@ -18,16 +18,12 @@ const Contact = () => {
           Github
         </span>
       </a>
-      {/* <a href='email:ivan18gauna@gmail.com?subject=Hola%20Soy%20Furanito' className='a'>
-        <span type='button' className='btn btn--outline'>
-        Emailx
-        </span>
-      </a> */}
       <a href='https://www.linkedin.com/in/ivangauna' target="_blank" className='a'>
         <span type='button' className='btn btn--outline'>
           Linkedin
         </span>
       </a>
+      
       </div>
     </section>
   )
