@@ -27,7 +27,7 @@ const projects = [
     name: 'Food-App',
     description:
       'Esta aplicación fue un proyecto individual donde desarrolle tanto el Front-end como el Back-end, consumo una API REST donde me traigo todos los datos relevantes de 100 recetas para mostrarlas en el front-end de a 9 recetas gracias al paginado, el usuario podrá buscar, filtrar, ordenar y también crear una receta.',
-    stack: ['Javascript', 'HTML', 'Css','React','Redux','Node','Express','Sequelize'],
+    stack: ['Javascript', 'HTML', 'Css','React','Redux','Node','Express','SQL'],
     sourceCode: 'https://github.com/Ivan18Gauna/PI-Food-main',
     livePreview: 'https://food-app-indol-theta.vercel.app/',
   },
@@ -35,7 +35,7 @@ const projects = [
     name: '+Salud',
     description:
       'Este es un proyecto grupal donde aprendí a trabajar en equipo usando metodología ágil/scrum, mi mayor participación fue en el Front-end.',
-    stack: ['Javascript', 'HTML', 'Css','React','Redux','Node','Express','Sequelize'],
+    stack: ['Javascript', 'HTML', 'Css','React','Redux','Node','Express','SQL'],
     sourceCode: 'https://github.com/Ivan18Gauna/app-clinica',
     livePreview: 'https://app-clinica.vercel.app/',
   },
@@ -43,7 +43,7 @@ const projects = [
     name: 'Clon de Mercado Libre',
     description:
       'Este proyecto lo acabo de iniciar, por lo cual está en proceso, la finalidad es aplicar todos mis conocimientos y aprender nuevos.',
-    stack: ['Javascript', 'HTML', 'Css','React','Redux','Node','Express','Sequelize'],
+    stack: ['Javascript', 'HTML', 'Css','React','Redux','Node','Express','SQL'],
     sourceCode: '',
     livePreview: '',
   },
@@ -56,7 +56,7 @@ const skills = [
   'CSS',
   'JavaScript',
   'Express',
-  'MySQL',
+  'SQL',
   'React',
   'Redux',
   'Git',
