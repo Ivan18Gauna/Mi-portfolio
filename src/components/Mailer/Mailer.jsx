@@ -26,6 +26,13 @@ export const Mailer = () => {
       )
       .then((response) => console.log(response))
       .then((error) => console.log(error));
+
+      setInput({
+        user_name: "",
+        user_email: "",
+        user_message: "",
+      });
+      alert('Su mensaje fu enviado con exito')
     }else{
       alert('Todos los campos deven ser completados')
     }
@@ -51,7 +58,7 @@ export const Mailer = () => {
           rows="10"
         ></textarea>
         <hr />
-        <button className="btn-email">Send</button>
+        <button className="btn-email">Enviar</button>
       </form>
     </div>
   );
