@@ -23,6 +23,11 @@ const Contact = () => {
           Linkedin
         </span>
       </a>
+      <a href='https://bit.ly/3BBRhgs' target="_blank" className='a'>
+        <span type='button' className='btn btn--outline'>
+        curriculum
+        </span>
+      </a>
       
       </div>
     </section>
