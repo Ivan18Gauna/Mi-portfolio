@@ -29,7 +29,7 @@ const projects = [
       'Esta aplicación fue un proyecto individual donde desarrolle tanto el Front-end como el Back-end, consumo una API REST donde me traigo todos los datos relevantes de 100 recetas para mostrarlas en el front-end de a 9 recetas gracias al paginado, el usuario podrá buscar, filtrar, ordenar y también crear una receta.',
     stack: ['Javascript', 'HTML', 'Css','React','Redux','Node','Express','SQL'],
     sourceCode: 'https://github.com/Ivan18Gauna/PI-Food-main',
-    livePreview: 'https://food-app-indol-theta.vercel.app/',
+    livePreview: ,
   },
   {
     name: '+Salud',
